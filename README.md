@@ -2,4 +2,4 @@
 
 Some basic API endpoints that can be tested with postman. Here's the schema of the API:
 
-![image](/src/Screenshot 2024-12-20 at 11.05.19 AM.png)
+![image](src/Screenshot%202024-12-20%20at%2011.05.19%20AM.png)
